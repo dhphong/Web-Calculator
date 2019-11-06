@@ -1,0 +1,19 @@
+.display {
+    width: 70%;
+    height: 20%;
+    position: relative;
+    background-color: black;
+    margin: -1px 0 0 -1px;
+    border: 1px solid black;
+}
+
+.display > span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: white;
+    /*font-size: 7vh;*/
+    font-size: 5vw;
+    font-weight: 300;
+    margin: 0 3vh 2vh 0;
+}

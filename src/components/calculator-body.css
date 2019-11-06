@@ -1,0 +1,12 @@
+.calculator-body {
+    height: 70%;
+    width: 70%;
+    background-color: #d39311;
+    padding: 1px 0 0 1px;
+}
+
+.calculator-body > .row {
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
